@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello im Kreszen Vallentino Arjuna Wijono
 🌱 I’m currently learning Flutter
 
 ⚡ Fun fact **I dont think it will work**
@@ -18,6 +18,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=encen-ya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=encen-ya&icon=0&color=13)](https://visitcount.itsvg.in)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=encen-ya&label=Profile%20views&color=0e75b6&style=flat" alt="encen-ya" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
