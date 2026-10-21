@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning Flutter
-⚡ Fun fact **I dont think it will work**
+-⚡ Fun fact **I dont think it will work**
 
 
 ## 🌐 Socials:
