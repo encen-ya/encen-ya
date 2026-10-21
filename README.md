@@ -18,6 +18,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=encen-ya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=encen-ya&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=encen-ya&icon=0&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
